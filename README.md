@@ -30,7 +30,7 @@ Install Java & Maven
 
 Place your dataset in data/user_data.csv
 
-Run the program:
+# Run the program:
 
 python
 Copy
@@ -48,3 +48,5 @@ Perfect for product, movie, or content recommendations.
 
 
 # Output:-
+
+![Image](https://github.com/user-attachments/assets/2ffb2fb9-34a0-4663-b5ae-4137725f079e)
